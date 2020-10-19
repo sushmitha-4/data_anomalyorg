@@ -11,4 +11,4 @@
 
 #### Distribution of temperature pattern over the years
 
-#### <img src=https://github.com/sushmitha-4/data_anomaly/blob/main/data_anomaly/reports/figures/Result6.png>
+
