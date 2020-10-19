@@ -8,3 +8,5 @@
 #### Data source : https://www.kaggle.com/boltzmannbrain/nab
 
 #### I've applied anomaly detecting model on realKnownCause dataset "machine_temperature_system_failure.csv"
+
+<img src="
